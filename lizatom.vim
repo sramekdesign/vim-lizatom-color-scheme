@@ -1,10 +1,7 @@
 " Vim color file
-" Maintainer: Datila Carvalho <datila@hotmail.com>
-" Last Change: May, 19, 2005
+" Maintainer: Tom Sramek <tom@sramekdesign.com>
+" Last Change: Jan, 10, 2013
 " Version: 0.2
-
-" This is a VIM's version of the emacs color theme
-" _Dark Blue2_ created by Chris McMahan.
 
 """ Init stuff
 
